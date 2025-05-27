@@ -2,7 +2,7 @@
 <img src="banner.png" alt="SparkleByte Banner" width="100%">
 
 # Hi, I'm SparkleByte ✨  
-*Python & C++ dev with a weakness for croissants, clarity, and clever code.*
+*Python & C++ dev with a weakness for chocolate croissants, clarity, and clever code.*
 
 ---
 
